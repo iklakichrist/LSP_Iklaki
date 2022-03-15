@@ -1,0 +1,3 @@
+﻿  AsyncProcess.cpp
+C:\Dev\WindowsDev\AsyncProcess\AsyncProcess\AsyncProcess.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AsyncProcess.vcxproj -> C:\Dev\WindowsDev\AsyncProcess\x64\Debug\AsyncProcess.exe
