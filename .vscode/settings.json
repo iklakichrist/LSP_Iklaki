@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "org.howard.edu.lsp.assignment1",
+        "org.howard.edu.lsp/Assignment5/Test",
+        "org.howard.edu.lsp\\Assignment5\\Implementation"
+    ]
+}
