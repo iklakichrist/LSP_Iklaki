@@ -1,5 +1,10 @@
+package test;
+
 import java.util.ArrayList;
 import java.util.Scanner;
+
+import implementation.IntegerSet;
+import implementation.IntegerSetException;
 /**This is the class that actually Test the implementations of the IntegerSet class */
 public class Driver {
 private static IntegerSet se = new IntegerSet();

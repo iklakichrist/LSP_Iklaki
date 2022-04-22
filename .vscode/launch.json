@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch f",
+            "request": "launch",
+            "mainClass": "f",
+            "projectName": "Assignment_d0670908"
+        },
+        {
+            "type": "java",
+            "name": "Launch MapUtilities",
+            "request": "launch",
+            "mainClass": "MapUtilities",
+            "projectName": "Assignment_d0670908"
+        },
+        {
+            "type": "java",
+            "name": "Launch Driver",
+            "request": "launch",
+            "mainClass": "test.Driver",
+            "projectName": "Assignment_d0670908"
+        },
+        {
+            "type": "java",
+            "name": "Launch Driver",
+            "request": "launch",
+            "mainClass": "Assignment5.test.Driver",
+            "projectName": "Assignment_d0670908"
+        },
+        {
+            "type": "java",
             "name": "Launch Driver",
             "request": "launch",
             "mainClass": "Driver",

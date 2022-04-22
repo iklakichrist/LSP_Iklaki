@@ -1,11 +1,10 @@
+package implementation;
+
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
-
-import javax.swing.text.StyledEditorKit.BoldAction;
 
 /** This is the class that implements methods for manipulating a mathematical set*/
 public class IntegerSet {

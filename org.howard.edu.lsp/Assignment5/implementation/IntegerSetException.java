@@ -1,5 +1,7 @@
-public class ChrisException extends Exception {
-    public ChrisException(String s) {
+package implementation;
+
+public class IntegerSetException extends Exception {
+    public IntegerSetException(String s) {
         super(s);
     }
 }
